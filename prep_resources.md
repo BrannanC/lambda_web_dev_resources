@@ -18,7 +18,7 @@
   This is the actual source of truth. This isn't an interpretation of how it works, it's not an explanation of how it works, this is _how it works._ It's hard to read and not a great reference for quick questions, but dig in on the deeper questions like "what happens when a function is executed".
 
 - **MDN**
-  Of course MDN. But don't just use it for when youo forget how `.reduce()` works, there's also a bunch of tutorials and guides.
+  Of course MDN. But don't just use it for when you forget how `.reduce()` works, there's also a bunch of tutorials and guides.
 
 # CS and Algorithms
 
