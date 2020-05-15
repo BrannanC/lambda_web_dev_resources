@@ -39,7 +39,7 @@
 
 # Behavioral
 - **S.T.A.R. and F.E.B. Methods**
-  [S.T.A.R. Method technique for preparing interview answers](https://careercenter.lehigh.edu/node/145)
+  [S.T.A.R. Method technique for preparing interview answers](https://careercenter.lehigh.edu/node/145), and
   [STAR and FEB worksheets](https://docs.google.com/document/d/12dqHqzFTSuHxADm0E_vxMQWqyYVKJyPLuvsM7lnHdYg/edit)
 - **Projects Prep Sheet**
   Copy this sheet and fill it out.
