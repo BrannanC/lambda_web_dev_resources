@@ -40,7 +40,8 @@
 # Behavioral
 - **S.T.A.R. Method**
   [S.T.A.R. Method technique for preparing interview answers](https://careercenter.lehigh.edu/node/145)
-- **Projects Checklist**
+- **Projects Prep Sheet**
+  Copy this sheet and fill it out.
   https://docs.google.com/spreadsheets/d/1KT-7_zJf-nEkSW99OMlw26PG0zaLOlzykYehXvK6pbk/edit?usp=sharing
 - **Example Question**
   Practice the common behavioral interview questions. You can do this in a mock interview or get a group together to workshop your answers.
