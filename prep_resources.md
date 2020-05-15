@@ -10,7 +10,7 @@
   [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   Has lectures available on Frontend Masters as well. The main point here is learning the nuances of type conversion and `==` and `===`. Kyle Simpson is the go to resource for this, but feel free to explore elsewhere.
 
-- **javascript.info**
+- **[javascript.info](javascript.info)**
   Just read through all of it at some point.
 
 - **The Spec**
