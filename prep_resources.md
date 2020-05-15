@@ -38,8 +38,9 @@
   CodeSignal, LeetCode, HackerRank, Edabit, there's a ton of them. I suggest choosing one that has an interview prep track and grind it out. You'll be forced to level up your problem solving skills but also learn a ton of algorithms and data structures.
 
 # Behavioral
-- **S.T.A.R. Method**
+- **S.T.A.R. and F.E.B. Methods**
   [S.T.A.R. Method technique for preparing interview answers](https://careercenter.lehigh.edu/node/145)
+  [STAR and FEB worksheets](https://docs.google.com/document/d/12dqHqzFTSuHxADm0E_vxMQWqyYVKJyPLuvsM7lnHdYg/edit)
 - **Projects Prep Sheet**
   Copy this sheet and fill it out.
   https://docs.google.com/spreadsheets/d/1KT-7_zJf-nEkSW99OMlw26PG0zaLOlzykYehXvK6pbk/edit?usp=sharing
