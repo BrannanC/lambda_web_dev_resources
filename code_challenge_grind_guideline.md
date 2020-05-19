@@ -11,7 +11,7 @@ At some point on your road to becoming a professional software developer you wil
 
 ### Ok, so you're stuck
 
-- Look for hints, not the answer. If there's a comment section available look there first. Otherwise a searching for the algorithm name or the type of problem will usually get you results.
+- Look for hints, not the answer. If there's a comment section available look there first. Otherwise searching for the challenges name or the type of problem it is will usually get you results.
 - Sometimes there was something simple you weren't thinking about, and that's ok. Take note of what you missed and when you come across a similar problem in the future you'll be ready next time!
 - But sometimes there's an algorithm you need, but didn't know about. Time to learn! Start reading about the algorithm and implement it. There's no shame in not knowing something and it's just not possible to reinvent every algorithm on the fly. Learn from the greats, step on the shoulders of giants and become a great problem solver and maybe some day you'll invent an algorithm that everyone will have to learn for _their_ coding interviews.
 
