@@ -24,9 +24,9 @@
 
 - **Grokking Algorithms**
   Best beginner algorithm book around.
-- **[algoexpert.io](algoexpert.io)**
+- **[algoexpert.io](https://www.algoexpert.io)**
   It's not free but it's a great resource and you can usually find a discount code.
-- **[teachyourselfcs.com](teachyourselfcs.com)**
+- **[teachyourselfcs.com](https://www.teachyourselfcs.com)**
   There's a lot of information here but take a look when you want to dig deeper on CS topics.
 - **NERDfirst on YouTube**
   [https://www.youtube.com/channel/UCTCvWvqjktIq0uvM3trAHCg](https://www.youtube.com/channel/UCTCvWvqjktIq0uvM3trAHCg)
