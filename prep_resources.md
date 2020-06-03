@@ -4,7 +4,7 @@
   It's a good idea to drill these with other students or make flashcards because these really are common interview questions.
 
 - **The Hard Parts - Will Sentance.**
-  All of them are worth watching. Available on frontendmasters.com free with your GitHub student developer pack. Prototype chain and `__proto__`, OOP in JS, basics of functional programming, Node.js, clusure, promises, all the hard interview questions are explained well in this series.
+  All of them are worth watching. Available on frontendmasters.com free with your GitHub student developer pack. Prototype chain and `__proto__`, OOP in JS, basics of functional programming, Node.js, closure, promises, all the hard interview questions are explained well in this series.
 
 - **YDKJS - Kyle Simpson.**
   [https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
