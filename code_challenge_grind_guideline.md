@@ -1,6 +1,6 @@
 # How To Approach the Code Challenge Grind
 
-At some point on your road to becoming a professional software developer you will want to grind code challenges. You will develop your problem solving skills and also learn some common, and some not-so-common, algorithms that will make you stand out as a candidate and help you solve problems on the job as well.
+At some point on your road to professional software developer you will want to grind code challenges. You will develop problem solving skills and also learn common, and some not-so-common, algorithms that will make you stand out as a candidate and help you solve problems on the job as well.
 
 ### Use UPER and try to solve the problem without any hints.
 
